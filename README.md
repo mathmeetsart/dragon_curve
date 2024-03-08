@@ -1,4 +1,4 @@
-# Dragon Curve
+# Dragon Curve (WORK IN PROGRESS)
 
 Welcome to the Dragon Curve repository! Explore the fascinating world of fractals and recursive patterns.
 
